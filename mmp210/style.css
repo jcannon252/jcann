@@ -1,0 +1,28 @@
+body{
+    margin:250px;
+    padding:250px;
+    border:250px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    
+    
+
+}
+div{ 
+    background-color: aqua;
+}
+#div2{
+    background-color: blue;
+}
+#jeannineglitch{
+    width:300px;
+}
+#holiday2{
+    width:300px;
+}
+
+img {
+  border-radius: 8px;
+}
+
+
